@@ -1,0 +1,1001 @@
+candidate_id,resume_text,job_role
+1,"Candidate with skills: Python, SQL, TensorFlow, Machine Learning, Communication. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+2,"Candidate with skills: HTML, CSS, JavaScript, React, Teamwork. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+3,"Candidate with skills: Java, Spring, SQL, REST APIs, Problem Solving. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+4,"Candidate with skills: Figma, Adobe XD, UI/UX Design, Creativity. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+5,"Candidate with skills: Python, Django, JavaScript, React, Agile. Qualification: Master's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+6,"Candidate with skills: Financial Modeling, Excel, Communication, Risk Analysis. Qualification: Master's in Finance. Experience level: Senior.",Finance
+7,"Candidate with skills: C++, Unreal Engine, Game Design, Teamwork. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+8,"Candidate with skills: Kubernetes, Docker, AWS, CI/CD, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+9,"Candidate with skills: Java, Spring Boot, Hibernate, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Full Stack Java Developer
+10,"Candidate with skills: Solidity, Ethereum, JavaScript, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Blockchain Developer
+11,"Candidate with skills: Marketing Strategy, SEO, Content Creation, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+12,"Candidate with skills: Recruitment, HR Policies, Communication, Leadership. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+13,"Candidate with skills: C#, .NET, SQL, ASP.NET. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+14,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+15,"Candidate with skills: Swift, iOS Development, Objective-C, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Mobile Developer
+16,"Candidate with skills: Network Security, Penetration Testing, Firewalls. Qualification: Bachelor's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+17,"Candidate with skills: Agile, Scrum, Project Management, Leadership. Qualification: Master's in Business Administration. Experience level: Senior.",Software Project Manager
+18,"Candidate with skills: C++, Unity, Game Design, 3D Modeling. Qualification: Bachelor's in Game Development. Experience level: Entry.",Video Game Designer
+19,"Candidate with skills: Python, Pandas, SQL, Data Visualization. Qualification: Master's in Data Science. Experience level: Mid.",Data Analyst
+20,"Candidate with skills: Kubernetes, Helm, AWS, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+21,"Candidate with skills: HTML, CSS, JavaScript, Node.js, MongoDB. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Web Developer
+22,"Candidate with skills: Python, Machine Learning, Deep Learning, NLP. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+23,"Candidate with skills: Java, Android Development, Kotlin, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+24,"Candidate with skills: Python, Flask, JavaScript, PostgreSQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+25,"Candidate with skills: Java, Spring, Angular, Microservices. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+26,"Candidate with skills: Adobe Illustrator, Photoshop, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+27,"Candidate with skills: SQL, Tableau, Data Analysis, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+28,"Candidate with skills: C#, Unity, Game Physics, 3D Modeling. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+29,"Candidate with skills: AWS, Jenkins, Docker, Ansible. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+30,"Candidate with skills: PHP, WordPress, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+31,"Candidate with skills: Python, TensorFlow, Keras, Data Science. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+32,"Candidate with skills: Blockchain, Smart Contracts, Solidity, Web3. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+33,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+34,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+35,"Candidate with skills: Digital Marketing, Google Analytics, SEO, PPC. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+36,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+37,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+38,"Candidate with skills: Swift, iOS, Xcode, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+39,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+40,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+41,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+42,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+43,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+44,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+45,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+46,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+47,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+48,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+49,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+50,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+51,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+52,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+53,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+54,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+55,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+56,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+57,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+58,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+59,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+60,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+61,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+62,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+63,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+64,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+65,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+66,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+67,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+68,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+69,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+70,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+71,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+72,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+73,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+74,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+75,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+76,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+77,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+78,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+79,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+80,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+81,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+82,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+83,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+84,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+85,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+86,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+87,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+88,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+89,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+90,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+91,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+92,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+93,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+94,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+95,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+96,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+97,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+98,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+99,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+100,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+101,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+102,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+103,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+104,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+105,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+106,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+107,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+108,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+109,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+110,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+111,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+112,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+113,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+114,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+115,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+116,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+117,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+118,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+119,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+120,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+121,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+122,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+123,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+124,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+125,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+126,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+127,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+128,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+129,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+130,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+131,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+132,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+133,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+134,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+135,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+136,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+137,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+138,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+139,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+140,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+141,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+142,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+143,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+144,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+145,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+146,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+147,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+148,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+149,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+150,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+151,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+152,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+153,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+154,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+155,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+156,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+157,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+158,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+159,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+160,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+161,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+162,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+163,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+164,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+165,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+166,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+167,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+168,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+169,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+170,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+171,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+172,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+173,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+174,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+175,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+176,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+177,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+178,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+179,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+180,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+181,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+182,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+183,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+184,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+185,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+186,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+187,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+188,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+189,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+190,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+191,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+192,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+193,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+194,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+195,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+196,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+197,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+198,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+199,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+200,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+201,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+202,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+203,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+204,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+205,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+206,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+207,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+208,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+209,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+210,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+211,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+212,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+213,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+214,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+215,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+216,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+217,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+218,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+219,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+220,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+221,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+222,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+223,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+224,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+225,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+226,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+227,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+228,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+229,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+230,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+231,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+232,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+233,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+234,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+235,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+236,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+237,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+238,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+239,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+240,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+241,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+242,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+243,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+244,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+245,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+246,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+247,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+248,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+249,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+250,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+251,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+252,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+253,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+254,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+255,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+256,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+257,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+258,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+259,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+260,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+261,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+262,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+263,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+264,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+265,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+266,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+267,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+268,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+269,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+270,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+271,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+272,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+273,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+274,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+275,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+276,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+277,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+278,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+279,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+280,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+281,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+282,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+283,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+284,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+285,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+286,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+287,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+288,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+289,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+290,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+291,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+292,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+293,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+294,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+295,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+296,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+297,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+298,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+299,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+300,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+301,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+302,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+303,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+304,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+305,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+306,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+307,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+308,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+309,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+310,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+311,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+312,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+313,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+314,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+315,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+316,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+317,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+318,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+319,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+320,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+321,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+322,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+323,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+324,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+325,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+326,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+327,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+328,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+329,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+330,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+331,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+332,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+333,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+334,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+335,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+336,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+337,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+338,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+339,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+340,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+341,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+342,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+343,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+344,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+345,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+346,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+347,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+348,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+349,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+350,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+351,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+352,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+353,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+354,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+355,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+356,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+357,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+358,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+359,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+360,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+361,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+362,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+363,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+364,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+365,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+366,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+367,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+368,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+369,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+370,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+371,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+372,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+373,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+374,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+375,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+376,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+377,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+378,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+379,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+380,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+381,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+382,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+383,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+384,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+385,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+386,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+387,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+388,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+389,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+390,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+391,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+392,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+393,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+394,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+395,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+396,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+397,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+398,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+399,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+400,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+401,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+402,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+403,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+404,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+405,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+406,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+407,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+408,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+409,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+410,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+411,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+412,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+413,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+414,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+415,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+416,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+417,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+418,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+419,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+420,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+421,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+422,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+423,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+424,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+425,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+426,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+427,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+428,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+429,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+430,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+431,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+432,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+433,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+434,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+435,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+436,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+437,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+438,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+439,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+440,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+441,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+442,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+443,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+444,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+445,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+446,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+447,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+448,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+449,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+450,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+451,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+452,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+453,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+454,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+455,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+456,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+457,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+458,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+459,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+460,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+461,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+462,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+463,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+464,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+465,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+466,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+467,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+468,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+469,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+470,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+471,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+472,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+473,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+474,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+475,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+476,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+477,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+478,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+479,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+480,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+481,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+482,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+483,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+484,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+485,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+486,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+487,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+488,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+489,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+490,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+491,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+492,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+493,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+494,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+495,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+496,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+497,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+498,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+499,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+500,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+501,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+502,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+503,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+504,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+505,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+506,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+507,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+508,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+509,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+510,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+511,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+512,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+513,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+514,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+515,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+516,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+517,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+518,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+519,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+520,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+521,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+522,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+523,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+524,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+525,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+526,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+527,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+528,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+529,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+530,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+531,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+532,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+533,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+534,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+535,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+536,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+537,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+538,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+539,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+540,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+541,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+542,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+543,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+544,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+545,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+546,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+547,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+548,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+549,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+550,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+551,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+552,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+553,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+554,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+555,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+556,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+557,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+558,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+559,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+560,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+561,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+562,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+563,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+564,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+565,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+566,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+567,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+568,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+569,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+570,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+571,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+572,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+573,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+574,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+575,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+576,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+577,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+578,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+579,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+580,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+581,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+582,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+583,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+584,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+585,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+586,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+587,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+588,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+589,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+590,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+591,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+592,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+593,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+594,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+595,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+596,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+597,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+598,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+599,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+600,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+601,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+602,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+603,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+604,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+605,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+606,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+607,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+608,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+609,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+610,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+611,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+612,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+613,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+614,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+615,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+616,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+617,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+618,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+619,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+620,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+621,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+622,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+623,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+624,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+625,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+626,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+627,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+628,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+629,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+630,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+631,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+632,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+633,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+634,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+635,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+636,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+637,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+638,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+639,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+640,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+641,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+642,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+643,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+644,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+645,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+646,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+647,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+648,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+649,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+650,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+651,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+652,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+653,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+654,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+655,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+656,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+657,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+658,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+659,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+660,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+661,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+662,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+663,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+664,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+665,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+666,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+667,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+668,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+669,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+670,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+671,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+672,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+673,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+674,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+675,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+676,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+677,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+678,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+679,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+680,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+681,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+682,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+683,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+684,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+685,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+686,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+687,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+688,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+689,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+690,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+691,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+692,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+693,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+694,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+695,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+696,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+697,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+698,"Candidate with skills: Scrum, Agile, Project Management, Leadership. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+699,"Candidate with skills: Python, Pandas, SQL, Data Visualization. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+700,"Candidate with skills: Kubernetes, Helm, AWS, Docker, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+701,"Candidate with skills: HTML, CSS, JavaScript, Angular. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+702,"Candidate with skills: Python, TensorFlow, Deep Learning, NLP. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+703,"Candidate with skills: Java, Kotlin, Android Development, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+704,"Candidate with skills: Python, Flask, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+705,"Candidate with skills: Java, Spring Boot, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+706,"Candidate with skills: Adobe XD, Figma, UI/UX Design, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+707,"Candidate with skills: SQL, R, Tableau, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+708,"Candidate with skills: C++, Unity, Game Physics, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+709,"Candidate with skills: AWS, Jenkins, Docker, Ansible. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+710,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+711,"Candidate with skills: Python, TensorFlow, Keras, Machine Learning. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+712,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+713,"Candidate with skills: React, JavaScript, HTML, CSS, TypeScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+714,"Candidate with skills: Java, Hibernate, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+715,"Candidate with skills: Digital Marketing, SEO, Content Creation, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+716,"Candidate with skills: HR Management, Recruitment, Communication. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+717,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+718,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+719,"Candidate with skills: Network Security, Penetration Testing, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+720,"Candidate with skills: Agile, JIRA, Stakeholder Management, Scrum. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+721,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+722,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+723,"Candidate with skills: Kubernetes, Docker, GCP, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+724,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+725,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+726,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+727,"Candidate with skills: C++, Unreal Engine, Game Design, 3D Modeling. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+728,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+729,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+730,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+731,"Candidate with skills: React, TypeScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+732,"Candidate with skills: Java, Spring, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+733,"Candidate with skills: Marketing Strategy, SEO, Social Media, PPC. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+734,"Candidate with skills: HR Policies, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+735,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+736,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+737,"Candidate with skills: Network Security, Ethical Hacking, Firewalls. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+738,"Candidate with skills: Agile, Scrum, Project Management, Leadership. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+739,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+740,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+741,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+742,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+743,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+744,"Candidate with skills: Python, Flask, JavaScript, PostgreSQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+745,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+746,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+747,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+748,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+749,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+750,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+751,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+752,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+753,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+754,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+755,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+756,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+757,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+758,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+759,"Candidate with skills: Network Security, Penetration Testing, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+760,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+761,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+762,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+763,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+764,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+765,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+766,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+767,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+768,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+769,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+770,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+771,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+772,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+773,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+774,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+775,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+776,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+777,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+778,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+779,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+780,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+781,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+782,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+783,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+784,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry,.",Full Stack Python Developer
+785,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+786,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+787,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+788,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+789,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+790,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+791,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+792,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+793,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+794,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+795,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+796,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+797,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+798,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+799,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+800,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+801,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+802,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+803,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+804,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+805,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+806,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+807,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+808,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+809,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+810,"Candidate with skills: Solidity, Web3js, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+811,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+812,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+813,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+814,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+815,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+816,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+817,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+818,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+819,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+820,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+821,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+822,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+823,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+824,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+825,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+826,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+827,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+828,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+829,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+830,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+831,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+832,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+833,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+834,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+835,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+836,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+837,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+838,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+839,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+840,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+841,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+842,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+843,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+844,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+845,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+846,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+847,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+848,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+849,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+850,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+851,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+852,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+853,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+854,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+855,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+856,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+857,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+858,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+859,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+860,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+861,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+862,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+863,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+864,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+865,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+866,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+867,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+868,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+869,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+870,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+871,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+872,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+873,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+874,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+875,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+876,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+877,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+878,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+879,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+880,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+881,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+882,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+883,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+884,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+885,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+886,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+887,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+888,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+889,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+890,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+891,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+892,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+893,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+894,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+895,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+896,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+897,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+898,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+899,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+900,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+901,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+902,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+903,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+904,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+905,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+906,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+907,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+908,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+909,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+910,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+911,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+912,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+913,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+914,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+915,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+916,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+917,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+918,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+919,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+920,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+921,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+922,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+923,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+924,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+925,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+926,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+927,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+928,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+929,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+930,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+931,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+932,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+933,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+934,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+935,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+936,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+937,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+938,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+939,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+940,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+941,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+942,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+943,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+944,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+945,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+946,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+947,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+948,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+949,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+950,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+951,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+952,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+953,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+954,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+955,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+956,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+957,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+958,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+959,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+960,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+961,"Candidate with skills: Python, R, SQL, Machine Learning. Qualification: Master's in Data Science. Experience level: Senior.",Data Scientist
+962,"Candidate with skills: Figma, Sketch, UI/UX, Wireframing. Qualification: Bachelor's in Design. Experience level: Entry.",Designer
+963,"Candidate with skills: Kubernetes, Docker, GCP, CI/CD. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Kubernetes Operations Engineer
+964,"Candidate with skills: JavaScript, Node.js, Express, MongoDB. Qualification: Bachelor's in Information Technology. Experience level: Entry.",Web Developer
+965,"Candidate with skills: Python, Django, PostgreSQL, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Full Stack Python Developer
+966,"Candidate with skills: Java, Spring Boot, Angular, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+967,"Candidate with skills: C++, Unreal Engine, VR Development. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+968,"Candidate with skills: AWS, Terraform, Jenkins, Linux. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+969,"Candidate with skills: PHP, Symfony, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+970,"Candidate with skills: Solidity, Web3, Ethereum, JavaScript. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Blockchain Developer
+971,"Candidate with skills: React, TypeScript, HTML, CSS. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Frontend Developer
+972,"Candidate with skills: Java, Spring, SQL, Microservices. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+973,"Candidate with skills: Marketing Campaigns, Social Media, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+974,"Candidate with skills: HR Policies, Recruitment, Training. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+975,"Candidate with skills: C#, ASP.NET, SQL Server, Azure. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+976,"Candidate with skills: Swift, iOS Development, UI/UX, Core Data. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+977,"Candidate with skills: Penetration Testing, Firewalls, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+978,"Candidate with skills: Scrum, Agile, Project Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
+979,"Candidate with skills: Python, Pandas, SQL, Tableau. Qualification: Master's in Data Science. Experience level: Entry.",Data Analyst
+980,"Candidate with skills: Kubernetes, Helm, AWS, Docker. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Kubernetes Operations Engineer
+981,"Candidate with skills: HTML, CSS, JavaScript, Vue.js. Qualification: Bachelor's in Information Technology. Experience level: Mid.",Web Developer
+982,"Candidate with skills: Python, TensorFlow, NLP, Deep Learning. Qualification: PhD in Artificial Intelligence. Experience level: Senior.",AIML
+983,"Candidate with skills: Java, Kotlin, Android SDK, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Mid.",Mobile Developer
+984,"Candidate with skills: Python, Flask, JavaScript, SQL. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Full Stack Python Developer
+985,"Candidate with skills: Java, Spring, React, AWS. Qualification: Master's in Software Engineering. Experience level: Senior.",Full Stack Java Developer
+986,"Candidate with skills: Adobe XD, Figma, UI/UX, Prototyping. Qualification: Bachelor's in Graphic Design. Experience level: Mid.",Designer
+987,"Candidate with skills: SQL, R, Data Visualization, Statistics. Qualification: Bachelor's in Statistics. Experience level: Entry.",Data Analyst
+988,"Candidate with skills: C++, Unity, Game Design, VR. Qualification: Bachelor's in Game Development. Experience level: Mid.",Game Developer
+989,"Candidate with skills: AWS, Jenkins, Docker, Terraform. Qualification: Bachelor's in Computer Science. Experience level: Senior.",DevOps Engineer
+990,"Candidate with skills: PHP, Laravel, MySQL, JavaScript. Qualification: Bachelor's in Information Technology. Experience level: Entry.",PHP Developer
+991,"Candidate with skills: Python, TensorFlow, Keras, NLP. Qualification: Master's in Data Science. Experience level: Mid.",Data Scientist
+992,"Candidate with skills: Solidity, Ethereum, Web3, Blockchain. Qualification: Bachelor's in Computer Science. Experience level: Senior.",Blockchain Developer
+993,"Candidate with skills: React, JavaScript, HTML, CSS, Redux. Qualification: Bachelor's in Computer Science. Experience level: Mid.",Frontend Developer
+994,"Candidate with skills: Java, Hibernate, SQL, REST APIs. Qualification: Bachelor's in Software Engineering. Experience level: Senior.",Backend Developer
+995,"Candidate with skills: Digital Marketing, SEO, PPC, Analytics. Qualification: Bachelor's in Marketing. Experience level: Mid.",Marketing
+996,"Candidate with skills: HR Management, Recruitment, Employee Relations. Qualification: Master's in Human Resources. Experience level: Senior.",HR
+997,"Candidate with skills: C#, .NET Core, Azure, SQL Server. Qualification: Bachelor's in Computer Science. Experience level: Mid.",C# Developer
+998,"Candidate with skills: Swift, iOS, Xcode, UI/UX. Qualification: Bachelor's in Computer Science. Experience level: Entry.",Mobile Developer
+999,"Candidate with skills: Network Security, Ethical Hacking, SIEM. Qualification: Master's in Cybersecurity. Experience level: Senior.",Cybersecurity Engineer
+1000,"Candidate with skills: Agile, JIRA, Stakeholder Management. Qualification: Master's in Business Administration. Experience level: Mid.",Software Project Manager
