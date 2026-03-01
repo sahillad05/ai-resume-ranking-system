@@ -1,4 +1,3 @@
-import os
 import joblib
 import PyPDF2
 from fastapi import FastAPI, UploadFile, File
@@ -6,37 +5,33 @@ from fastapi.responses import JSONResponse
 
 from src.preprocessing.feature_pipeline import FeaturePipeline
 
-app = FastAPI(title="AI Resume Ranking API")
+app = FastAPI(title="AI Resume Classification API")
 
-# Load artifacts at startup
+# Load artifacts
 pipeline = FeaturePipeline.load("artifacts/feature_pipeline.pkl")
 model = joblib.load("artifacts/model.pkl")
 label_encoder = joblib.load("artifacts/label_encoder.pkl")
 
 
 def extract_text_from_pdf(file) -> str:
-    """
-    Extract raw text from uploaded PDF.
-    """
     reader = PyPDF2.PdfReader(file)
     text = ""
 
     for page in reader.pages:
-        text += page.extract_text() + " "
+        extracted = page.extract_text()
+        if extracted:
+            text += extracted + " "
 
     return text.strip()
 
 
 @app.get("/")
 def home():
-    return {"message": "AI Resume Screening API is running"}
+    return {"message": "AI Resume Classification API is running"}
 
 
 @app.post("/predict")
 async def predict(file: UploadFile = File(...)):
-    """
-    Upload resume PDF and get predicted job role.
-    """
 
     if not file.filename.endswith(".pdf"):
         return JSONResponse(
@@ -52,8 +47,13 @@ async def predict(file: UploadFile = File(...)):
             content={"error": "Could not extract text from PDF"}
         )
 
-    # Transform using SAME pipeline
-    features = pipeline.transform([pdf_text])
+    # Default experience for inference
+    experience_years = [0]
+
+    features = pipeline.transform(
+        [pdf_text],
+        experience_years
+    )
 
     probabilities = model.predict_proba(features)[0]
     predicted_index = probabilities.argmax()
@@ -61,6 +61,6 @@ async def predict(file: UploadFile = File(...)):
     confidence = float(probabilities[predicted_index])
 
     return {
-        "predicted_job_role": predicted_role,
+        "predicted_category": predicted_role,
         "confidence": round(confidence, 4)
     }
