@@ -2,7 +2,8 @@ import pandas as pd
 import joblib
 from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy.sparse import hstack
-from resume_parser import ResumeParser
+
+from src.preprocessing.resume_parser import ResumeParser
 
 
 class FeaturePipeline:
