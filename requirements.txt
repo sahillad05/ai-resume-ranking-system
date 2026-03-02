@@ -9,3 +9,4 @@ python-multipart
 PyPDF2
 joblib
 scipy
+requests
