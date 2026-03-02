@@ -66,11 +66,11 @@ async def predict(file: UploadFile = File(...)):
     }
 
 
-from src.models.ranker import ResumeRanker
+from src.models.ranker import AdvancedResumeRanker
 from typing import List
 from fastapi import Form
 
-ranker = ResumeRanker()
+ranker = AdvancedResumeRanker()
 
 
 @app.post("/rank")
@@ -103,7 +103,10 @@ async def rank_resumes(
     ranked_output = [
         {
             "file_name": file_names[result["resume_index"]],
-            "score": round(result["score"], 4)
+            "final_score": round(result["final_score"] * 100, 2),
+            "similarity": round(result["similarity"] * 100, 2),
+            "classification_confidence": round(result["classification_confidence"] * 100, 2),
+            "experience_years": result["experience_years"]
         }
         for result in ranking_results
     ]
