@@ -64,3 +64,51 @@ async def predict(file: UploadFile = File(...)):
         "predicted_category": predicted_role,
         "confidence": round(confidence, 4)
     }
+
+
+from src.models.ranker import ResumeRanker
+from typing import List
+from fastapi import Form
+
+ranker = ResumeRanker()
+
+
+@app.post("/rank")
+async def rank_resumes(
+    job_description: str = Form(...),
+    files: List[UploadFile] = File(...)
+):
+
+    resume_texts = []
+    file_names = []
+
+    for file in files:
+        if not file.filename.endswith(".pdf"):
+            continue
+
+        text = extract_text_from_pdf(file.file)
+
+        if text:
+            resume_texts.append(text)
+            file_names.append(file.filename)
+
+    if not resume_texts:
+        return {"error": "No valid resume text extracted"}
+
+    ranking_results = ranker.rank_resumes(
+        job_description,
+        resume_texts
+    )
+
+    ranked_output = [
+        {
+            "file_name": file_names[result["resume_index"]],
+            "score": round(result["score"], 4)
+        }
+        for result in ranking_results
+    ]
+
+    return {
+        "job_description": job_description,
+        "ranking": ranked_output
+    }
