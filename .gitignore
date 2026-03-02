@@ -29,3 +29,5 @@ models/
 .DS_Store
 Thumbs.dbartifacts/
 *.pkl
+artifacts/
+*.pkl
